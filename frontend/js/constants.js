@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the MallowFrens NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = '5K MallowFrens up for adventure, gather around the ETH campfire to stay toasty, calm and warm.';
+const welcome_p = '5K MallowFrens up for adventure, gather around the campfire to stay toasty, calm and warm.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
